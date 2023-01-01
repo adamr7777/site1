@@ -46,3 +46,22 @@ h2 {
     margin-top: 0px;
 }
 
+
+a {
+    color: #ef5839;
+    text-decoration: underline dotted;
+}
+
+a:hover {
+    color: #d4b44c;
+}
+
+a:active {
+    color: #d4b44c;
+}
+
+
+.container {
+    width: 620px;
+    margin: 0 auto;
+}
